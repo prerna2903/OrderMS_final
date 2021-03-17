@@ -21,7 +21,7 @@
 	
 	<properties>
 		  <java.version>1.8</java.version>
-		  <sonar.projectKey>prerna2903_orderMS</sonar.projectKey>
+		  <sonar.projectKey>prerna2903_OrderMS_final</sonar.projectKey>
   <sonar.organization>prerna2903</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
